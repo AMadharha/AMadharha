@@ -1,8 +1,8 @@
 ## Welcome to my profile!
 
-I am a driven Computer Science student at the University of Guelph with a passion for artificial intelligence and machine learning. As a future software developer, I aim to contribute to the industry by leveraging my technical skills to create innovative AI solutions that improve efficiencies and enhance human capabilities. With experience in leadership roles and a minor in Mathematics, I bring a unique perspective to the field.
+I am a dedicated Computer Science student at the University of Guelph with a strong inclination towards software development. My aim as an aspiring software developer is to make meaningful contributions to the tech world by utilizing my technical prowess to design and develop cutting-edge software solutions. My leadership experience coupled with a minor in Mathematics gives me a distinct edge and a holistic approach to problem-solving in the realm of software engineering.
 
-I am committed to making a positive impact and staying involved in the community through collaboration and continuous learning. Connect with me on LinkedIn or email me at ankushmadharha@gmail.com to discuss how I can bring value to your organization. My goal is to launch a successful career in the AI industry and make a lasting impact in the field.
+I am deeply committed to effecting positive change and maintaining an active involvement in the software development community. Through collaboration and relentless learning, I strive for excellence. Reach out to me on LinkedIn or email me at ankushmadharha@gmail.com to discuss potential opportunities or collaborations. My ultimate ambition is to carve out a significant niche for myself in the software industry, leaving a legacy of innovation and excellence.
 
 ### How to Reach Me
 * Email: ankushmadharha@gmail.com
