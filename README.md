@@ -7,4 +7,4 @@ I am deeply committed to effecting positive change and maintaining an active inv
 ### How to Reach Me
 * Email: ankushmadharha@gmail.com
 * Phone: (416)-556-7131
-* LinedIn: https://www.linkedin.com/in/ankushmadharha/
+* LinkedIn: https://www.linkedin.com/in/ankushmadharha/
